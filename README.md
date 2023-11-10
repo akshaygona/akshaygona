@@ -18,7 +18,7 @@ I believe in continuous learning and staying updated with the latest technologie
 - **DevOps**: Understanding the principles of continuous integration and deployment.
 - **Machine Learning**: Breaking into neural networks and data analysis.
 
-## 💞️ I’m looking to collaborate on...
+## I’m looking to collaborate on...
 
 I'm open to collaborating on projects that align with my interests. Whether it's a Java application, a Python project, or something else entirely, I'm excited to contribute and learn from the experience.
 
