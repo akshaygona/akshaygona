@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshay Gona
 
-Welcome to my GitHub profile! I'm a sophomore in college passionate about software engineering, with a strong background in Java and some experience in Python. I'm eager to contribute and collaborate on exciting projects that challenge and expand my skills.
+Welcome to my GitHub profile! I'm a second year college student passionate about software engineering, with a strong background in Java and some experience in Python, C, and C++. I'm eager to contribute and collaborate on exciting projects that challenge and expand my skills.
 
 ## 👀 I’m interested in...
 
@@ -28,5 +28,3 @@ Feel free to reach out! I'm always open to discussions, collaboration, or just a
 
 - LinkedIn: [Akshay Gona](https://www.linkedin.com/in/agona/)
 - Email: [gona@wisc.edu](mailto:gona@wisc.edu)
-
-Let's code, learn, and build together!
