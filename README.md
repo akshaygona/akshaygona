@@ -4,9 +4,8 @@ Welcome to my GitHub profile! I'm a second year college student passionate about
 
 ## 👀 I’m interested in...
 
-- **Software Engineering**: Building scalable and efficient solutions.
-- **Java Development**: My go-to language for creating robust applications.
-- **Python**: Exploring the versatility of Python in various projects.
+- **Artificial Intelligence**: Exploring the possibilities and realms open for optimization with AI and LLMs.
+- **Python Development**: My go-to language for creating robust applications.
 - **Open Source**: Contributing to and learning from the open-source community.
 
 ## 🌱 I’m currently learning...
@@ -14,7 +13,7 @@ Welcome to my GitHub profile! I'm a second year college student passionate about
 I believe in continuous learning and staying updated with the latest technologies. Currently, I am focused on:
 
 - **Web Development**: Expanding my skills in front-end and back-end development.
-- **Data Structures and Algorithms**: Strengthening the foundation for efficient problem-solving.
+- **RAG**: Breaking into Retrival Augmented Generation with LLMs.
 - **DevOps**: Understanding the principles of continuous integration and deployment.
 - **Machine Learning**: Breaking into neural networks and data analysis.
 
