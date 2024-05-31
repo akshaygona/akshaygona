@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshay Gona
 
-Welcome to my GitHub profile! I'm a second year college student passionate about software engineering, with a strong background in Java and some experience in Python, C, and C++. I'm eager to contribute and collaborate on exciting projects that challenge and expand my skills.
+Welcome to my GitHub profile! I'm a second year college student passionate about software engineering, with a strong background in Java and Python, and some experience with C, C++, Rust, and a few other languages. I'm eager to contribute and collaborate on exciting projects that challenge and expand my skills.
 
 ## 👀 I’m interested in...
 
