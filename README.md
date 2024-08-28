@@ -27,3 +27,4 @@ Feel free to reach out! I'm always open to discussions, collaboration, or just a
 
 - LinkedIn: [Akshay Gona](https://www.linkedin.com/in/agona/)
 - Email: [gona@wisc.edu](mailto:gona@wisc.edu)
+- Portfolio: [akshaygona.com](https://www.akshaygona.com)
